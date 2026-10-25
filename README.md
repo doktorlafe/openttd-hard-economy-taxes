@@ -1,5 +1,10 @@
 # Hard Economy Taxes – Game Script for OpenTTD
 
+Getting money in OpenTTD is easy, if you know the rules. Now try this!
+
+<img width="990" height="700" alt="image" src="https://github.com/user-attachments/assets/421c3945-3777-4cc0-8498-4e66ba4d5d16" />
+
+
 A lightweight version of Hard Economy with only the economy part (OpenTTD 15.x, API 15). Every quarter it charges
 each company a profit tax, a wealth tax, overhead, fees for vehicles and stations, and a cash tax.
 
