@@ -1,0 +1,2 @@
+##grflangid 0x01
+STR_QUARTER_BILL :Quarterly bill - profit tax: {CURRENCY_LONG}, wealth tax: {CURRENCY_LONG}, overhead: {CURRENCY_LONG}, fleet and station fees: {CURRENCY_LONG}. Total: {CURRENCY_LONG}
